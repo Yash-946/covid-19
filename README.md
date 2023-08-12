@@ -1,5 +1,5 @@
 # covid-19
-### App Link :https://1drv.ms/u/s!AoACZ2HF53PAhhUy59pxABLxshfS?e=VGJxsp
+### App Link : https://1drv.ms/u/s!AoACZ2HF53PAhhUy59pxABLxshfS?e=VGJxsp
 
 ## Screenshot
 <p align="center">
